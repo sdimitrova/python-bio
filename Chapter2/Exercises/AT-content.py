@@ -1,0 +1,5 @@
+my_dna = "ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT"
+
+count = my_dna.count('AT')
+
+print(count)
